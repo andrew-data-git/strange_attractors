@@ -13,4 +13,5 @@ Use matplotlib and tkinter to create an applet where parameters may be adjusted 
 
 ## Features
 
-- feature1
+- Sliders for parameters in the Lorenz attractor
+- UI for investigating plot (hold right-click to zoom, left-click to rotate)
